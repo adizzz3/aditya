@@ -55,4 +55,4 @@ jobs:
           app-name: 'piyusha'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A438B59D8564FD0938B0C30015E2E18 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39FEC63C91CE4A1994DC03F03F807203 }}
